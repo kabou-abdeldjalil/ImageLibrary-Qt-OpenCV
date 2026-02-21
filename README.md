@@ -79,7 +79,7 @@ Valide :
 
 ### Diagramme UML
 Architecture générale de l’application :
-<p align="center"> <img src="architecture_general_de_app.png" width="400"> </p>
+<p align="center"> <img src="architecture_general_de_app.png" width="600"> </p>
 
 Diagramme UML généré avec PlantUML :
 <p align="center"> <img src="diagramme.png" width="700"> </p>
@@ -121,7 +121,7 @@ L’interface « Bibliothèque – Admin » permet :
 - Gestion de la bibliothèque
 - Application des traitements
 
-<p align="center"> <img src="consultation_level_2.png" width="400"> </p>
+<p align="center"> <img src="consultation_level_1.png" width="400"> </p>
 
 ##  Gestion de la Bibliothèque d’Images
 
