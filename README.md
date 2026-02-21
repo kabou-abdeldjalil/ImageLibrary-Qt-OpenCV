@@ -96,13 +96,13 @@ Trois niveaux d’accès :
 ##  Illustration des niveaux
 
 ### Niveau 0 – Aucun accès
-<p align="center"> <img src="level_0.png" width="300"> </p>
+<p align="center"> <img src="level_0.png" width="250"> </p>
 
 ### Niveau 1 – Consultation
-<p align="center"> <img src="level_1.png" width="300"> </p>
+<p align="center"> <img src="level_1.phg.png" width="250"> </p>
 
 ### Niveau 2 – Administrateur
-<p align="center"> <img src="level_2.png" width="300"> </p>
+<p align="center"> <img src="level_2.png" width="250"> </p>
 
 ##  Intégration des interfaces selon les droits utilisateurs
 Après authentification, l’interface s’adapte automatiquement au niveau de l’utilisateur.
