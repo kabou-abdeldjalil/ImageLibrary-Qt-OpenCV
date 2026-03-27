@@ -1,4 +1,4 @@
-# 📚 ImageLibrary-Qt-OpenCV
+#  ImageLibrary-Qt-OpenCV
 
 ##  Contexte Académique
 Projet réalisé dans le cadre du **Master 2 SIA2 – Signal, Image et Apprentissage Automatique**  
